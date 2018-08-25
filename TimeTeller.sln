@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeTeller", "TimeTeller\TimeTeller.csproj", "{D68040A7-3B39-4194-9A64-FC91B817BB70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7258C5E2-8222-4897-831D-87DEBCD4E9A6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68040A7-3B39-4194-9A64-FC91B817BB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68040A7-3B39-4194-9A64-FC91B817BB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68040A7-3B39-4194-9A64-FC91B817BB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68040A7-3B39-4194-9A64-FC91B817BB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5485D5F4-9AD0-4A36-B2DE-A9B3DB67A2B2}
+	EndGlobalSection
+EndGlobal
